@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node
 
 MAINTAINER Hani Hashemi <jhanihashemi@gmail.com>
 
